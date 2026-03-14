@@ -1,7 +1,7 @@
 # tourism-event-website
 This website promotes the Roof of Africa Rally in Lesotho and provides information for both local and international tourists.
 
-
+##STUDENT INFORMATION
 
 Student Name: Moleboheng Motsamai
 
